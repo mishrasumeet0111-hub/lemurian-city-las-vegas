@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://las-vegas.lemurianstudios.com/sitemap.xml
